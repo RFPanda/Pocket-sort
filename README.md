@@ -5,4 +5,4 @@
 Author: @rfpanda
 
 Results: 
-![Main](https://github.com/rfpanda/Pocket-sort/raw/master/Git-view/img1.jpeg)
+![Main](https://github.com/rfpanda/Pocket-sort/raw/main/Git-view/img1.jpeg)
